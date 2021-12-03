@@ -7778,7 +7778,7 @@ html .channelTabs-newTab:hover {
 
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
-html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp::before {
+/* html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E > div.app-2rEoOp::before {
 	content: "Download update theme from https://vsthemes.org" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
@@ -7809,7 +7809,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	animation: unset !important;
 	z-index: 101 !important;
 	pointer-events: none !important;
-}
+} */
 
 
 /* ~~~~		20.		WATERMARK						~~~~ */
@@ -7897,16 +7897,17 @@ overflow-y: auto !important;
 background: transparent;
 } */
 
-.tutorialContainer-11ICd5 .wrapper-25eVIn .childWrapper-anI2G9 {
-/* background: var(--image-home-icon) !important;
+/* .tutorialContainer-11ICd5 .wrapper-25eVIn .childWrapper-anI2G9 {
+background: var(--image-home-icon) !important;
 background-position: var(--image-home-icon-position) !important;
 background-repeat: no-repeat !important;
 background-size: var(--image-home-icon-zoom) !important;
 border-radius: var(--image-home-icon-shape); */
 
-background: rgba(var(--vtransparencycolor), 0.3) !important;
+/* background: rgba(var(--vtransparencycolor), 0.3) !important;
 }
 
 .homeIcon-AaowEC {
 visibility: hidden;
 }
+ */
