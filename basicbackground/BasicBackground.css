@@ -2138,7 +2138,6 @@ body::after {
 #app-mount .loading-17PYl_ {								/* guildcard			loading								*/
 	background-color: rgba(var(--transparencycolor), .5);
 }
-
 #app-mount .addEntryCard-11Q874 {							/* add entry card											*/
 	background-color: rgba(var(--transparencycolor),.2);
 	border-color: var(--interactive-normal);
